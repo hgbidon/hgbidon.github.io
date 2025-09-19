@@ -18,3 +18,4 @@ As for my other coding projects, I plan on creating more personal projects using
 Stay tuned to find out more! Talk to you soon.
 
 -----
+
