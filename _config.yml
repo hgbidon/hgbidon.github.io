@@ -22,9 +22,9 @@
 # google_analytics_id: #UA-XXXX-Y
 
 # Setup
-title: Hana Gabrielle
-tagline: "Personal notes and projects"
-description: "My personal Jekyll site for notes, projects, and blog posts."
+title: Hana Gabrielle Bidon
+tagline: "Personal Thoughts and Projects"
+description: "My Personal Website for Thoughts and Projects."
 url: "https://hgbidon.github.io"   # YOUR GitHub Pages URL
 baseurl: ""
 paginate: 5
@@ -33,7 +33,7 @@ permalink: pretty
 # About/contact
 author:
   name: Hana Gabrielle Bidon
-  url: https://twitter.com/hanagabrielleb
+  url: https://allmylinks.com/hanagabrielleb
   email: hanagabrielleb91@gmail.com
 
 # Gems / Plugins
