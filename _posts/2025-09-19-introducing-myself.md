@@ -13,9 +13,10 @@ I'm Hana Gabrielle, an <strong>an aspiring Data Scientst</strong> who is also <s
 
 In addition, I love coding for fun in <strong>Python</strong>, <strong>R</strong>, and <strong>SQL</strong>, specifically <strong>MySQL</strong>. Since June 2025, I'm learning more about <strong>Natural Language Processing (NLP)</strong> by coding a project analyzing my journal entries in <strong>French</strong>, <strong>German</strong>, <strong>Spanish</strong>, and <strong>Norwegian</strong> from January 2024 to September 2025. Additionally, I completed a project where I've conducted A/B testing on marketing campagins based on [this Kaggle Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing). I'm going to post it later this afternoon on my [GitHub](https://github.com/hgbidon). 
 
-As for my other coding projects, I plan on creating more personal projects using Python, R, Tableau, and SQL. 
+As for my other coding projects, I plan on creating more personal projects using <strong>Python</strong>, <strong>R</strong>, <strong>Tableau</strong>, and <strong>SQL</strong>. 
 
 Stay tuned to find out more! Talk to you soon.
 
 -----
+
 
