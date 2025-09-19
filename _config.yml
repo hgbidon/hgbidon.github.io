@@ -1,22 +1,48 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+# title:               Lanyon
+# tagline:             'A Jekyll theme'
+# description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+# url:                 http://lanyon.getpoole.com
+# baseurl:             ''
+# paginate:            5
+# permalink:           pretty
+
+# # About/contact
+# author:
+#   name:              Hana Gabrielle Bidon
+#   url:               https://twitter.com/hanagabrielleb
+#   email:             hanagabrielleb91@gmail.com
+
+# # Gems
+# plugins:
+#   - jekyll-paginate
+
+# # Custom vars
+# version:             1.1.0
+# google_analytics_id: #UA-XXXX-Y
+
+# Setup
+title: Hana Gabrielle
+tagline: "Personal notes and projects"
+description: "My personal Jekyll site for notes, projects, and blog posts."
+url: "https://hgbidon.github.io"   # YOUR GitHub Pages URL
+baseurl: ""
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              Hana Gabrielle Bidon
-  url:               https://twitter.com/hanagabrielleb
-  email:             hanagabrielleb91@gmail.com
+  name: Hana Gabrielle Bidon
+  url: https://twitter.com/hanagabrielleb
+  email: hanagabrielleb91@gmail.com
 
-# Gems
+# Gems / Plugins
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+version: 1.1.0
+google_analytics_id: # Add yours if needed
+
+# Theme
+remote_theme: poole/lanyon   # Use this to pull Lanyon from GitHub
