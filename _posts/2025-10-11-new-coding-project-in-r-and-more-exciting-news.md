@@ -4,7 +4,7 @@ title: New Coding Project in R and More Exciting News!
 ---
 
 ## New Coding Project in R: Global Music Sales Analysis: Trends, Genres & Regional Insights
-I have amazing news! I'm so excited to showcase the GitHub repository of my newest project, [Global Music Sales Analysis: Trends, Genres & Regional Insights](https://github.com/hgbidon/Music-Sales-Analysis). I created Interactive visualizations and dashboards analyzing worldwide music sales trends across formats and years using R, Plotly, and R Shiny. I'm almost done with my new coding project in R and have posted the R code in GitHub. I just need to post the data visualizations and find out a way to post the R Shiny applications that I've created on GitHub.
+I have amazing news! I'm so excited to showcase the GitHub repository of my newest project, [Global Music Sales Analysis: Trends, Genres & Regional Insights](https://github.com/hgbidon/Music-Sales-Analysis). I created interactive visualizations and dashboards analyzing worldwide music sales trends across formats and years using R, Plotly, and R Shiny. I'm almost done with my new coding project in R and have posted the R code in GitHub. I just need to post the data visualizations and find out a way to post the R Shiny applications that I've created on GitHub.
 
 It's been six years since I've coded anything in R, and I'm stoked that I've created an amazing data analysis project on global music sales. I've been wanting to work with a data set regarding music, so I'm joyful that I finally had the chance to achieve that goal. 
 
