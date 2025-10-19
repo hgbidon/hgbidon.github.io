@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Social Media Sentiment and Engagement Analysis Project and More Projects to Come!
+---
 
 ## Social Media Engagement Analysis Project
 I'm stoked to share another project on GitHub: [Social Media Sentiment & Engagement Analysis](https://github.com/hgbidon/Social-Media-Engagement-Analysis). This project builds an end-to-end data analysis pipeline in R to study engagement and sentiment across multiple social media platforms. It combines machine learning, text analytics, and data visualization to uncover patterns in how audiences interact with online content. I'm going to continue working on this project. Stay tuned to see the final results soon.
